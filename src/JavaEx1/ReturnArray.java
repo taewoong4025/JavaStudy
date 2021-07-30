@@ -1,6 +1,6 @@
-package JAVA_7_28;
+package JavaEx1;
 
-public class ReturnArray728 {
+public class ReturnArray {
 
 	static int[] makeArray() {
 		int temp[] = new int[4];

@@ -1,19 +1,19 @@
-package JAVA_7_28;
+package JavaEx1;
 
 import java.util.Scanner;
 
-public class Calc728 {
+public class Calc {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
 		
-		int fiveTenThousand=50000; // 5만원
-		int tenThousand=10000; // 만원
-		int thousand=1000; // 천원
-		int hundred=100; // 백원
-		int fifty=50; // 오십원
-		int ten=10; // 십원
-		int one=1; // 일원
+		final int fiveTenThousand=50000; // 5만원
+		final int tenThousand=10000; // 만원
+		final int thousand=1000; // 천원
+		final int hundred=100; // 백원
+		final int fifty=50; // 오십원
+		final int ten=10; // 십원
+		final int one=1; // 일원
 		int res=0;
 		
 		System.out.print("금액을 입력하시오>>");

@@ -1,6 +1,6 @@
-package JAVA_7_28;
+package JavaEx1;
 
-public class ForeachEx728 {
+public class ExForeach {
 	enum Week{
 	월,화,수,목,금,토,일
 	}
@@ -21,10 +21,7 @@ public class ForeachEx728 {
 		
 		for(Week w : Week.values() ) {
 			System.out.println(w+"요일");
-			
-			
-			
-		}
 		
+		}		
 	}
 }

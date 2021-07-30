@@ -1,9 +1,9 @@
-package JAVA_7_28;
+package JavaEx1;
 
 //import java.util.Arrays;
 import java.util.Scanner;
 
-public class ExArrayTest728 {
+public class ExArrayTest {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

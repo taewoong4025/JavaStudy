@@ -1,8 +1,8 @@
-package JAVA_7_28;
+package JavaEx1;
 
 //import java.util.Scanner;
 
-public class DoWhileTest728 {
+public class DoWhileTest {
 	public static void main(String[] args) {
 //		Scanner sc = new Scanner(System.in);
 		int i = 1;

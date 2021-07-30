@@ -1,6 +1,6 @@
-package JAVA_7_28;
+package JavaEx1;
 
-public class Print2DArray728 {
+public class Print2DArray {
 	public static void main(String[] args) {
 		int n[][]= {{1},{1,2,3},{1},{1,2,3,4},{1,2}};
 		

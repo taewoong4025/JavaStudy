@@ -1,8 +1,8 @@
-package JAVA_7_28;
+package JavaEx1;
 
 import java.util.Scanner;
 
-public class ScoreAverage728 {
+public class ScoreAverage {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

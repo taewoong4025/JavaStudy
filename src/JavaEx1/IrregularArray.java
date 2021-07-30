@@ -1,8 +1,8 @@
-package JAVA_7_28;
+package JavaEx1;
 
 import java.util.Scanner;
 
-public class IrregularArray728 {
+public class IrregularArray {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
