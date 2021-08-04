@@ -24,5 +24,6 @@ public class StaticMember {
 		CurrencyConverter.setRate(rate);
 		System.out.println("백만원은 $"+CurrencyConverter.toDollar(100000)+"입니다.");
 		System.out.println("$100는"+CurrencyConverter.toKWR(100)+"입니다.");
+		sc.close();
 	}
 }
