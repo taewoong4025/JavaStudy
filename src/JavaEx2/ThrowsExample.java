@@ -10,6 +10,6 @@ public class ThrowsExample {
 	}
 	 
 	public static void findclass() throws ClassNotFoundException {
-	Class c1 = Class.forName("java.lang.String2");
+	Class.forName("java.lang.String2");
 	}
 }
